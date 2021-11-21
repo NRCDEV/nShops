@@ -1,2 +1,2 @@
-# s_Shops
+# n_Shops
 Script supérette en RageUI 
